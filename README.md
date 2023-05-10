@@ -7,4 +7,6 @@
 
 `docker run -idt -v path/to/root:/root asm-examples:latest `
 
+You can also use the absolute path above depending on your needs.
+
 I recommend using VSCode and popping into your container with it using `F1 -> Dev Containers Attach to Running Container`!
