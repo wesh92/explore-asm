@@ -1,0 +1,5 @@
+**/.gnupg
+**/.vscode-server
+**/low_level_learning_vid/*.o
+**/low_level_learning_vid/*.out
+**/low_level_learning_vid/assem
